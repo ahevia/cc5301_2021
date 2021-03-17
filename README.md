@@ -31,7 +31,8 @@ El material para el curso será principalmente cubierto con las presentaciones d
 Adicionalmente, habrá dos libros de referencias del curso:
 - Jon Katz y Yehuda Lindell, _Introduction to Modern Cryptography, 
 	Second Edition_. 
-- Mihir Bellare y Phil Rogaway, _Introduction to Cryptography, Lecture Notes_.
+- Mihir Bellare y Phil Rogaway, _Introduction to Cryptography, Lecture Notes_. Apuntes de un curso en UCSD.
+
 (Ver links en referencias abajo). 
 Se espera que cada estudiante lea y estudie en forma independiente el o los capítulos correspondientes
   a la materia vista en clases. Ellos serán indicados en el calendario más abajo.
