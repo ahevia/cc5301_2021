@@ -1,5 +1,5 @@
 # CC5301  Introducción a la Criptografía Moderna, Otoño 2021
-_(Actualizado el 2021-03-17)_
+_(Actualizado el 2021-03-17, ver log de cambios al final)_
 
 **Propósito:**
 
@@ -7,10 +7,10 @@ Aprender conceptos, técnicas y resultados del fascinante mundo de la Criptograf
 
 **Profesor:** [Alejandro Hevia](http://www.dcc.uchile.cl/~ahevia/)
 - Cátedras: Lunes y Miércoles 10:15am-11:30am (con break de 10min aprox.)
-- **Horario Consultas profesor (via Discord): TBA (por anunciar).** 
+- **Horario Consultas profesor (via Discord): Lunes 6pm-7pm.** 
 - Clases auxiliares: Viernes 10:15am-11:45am 
 	- Auxiliares: Ilana Mergudich,.
-	- Ayudantes: TBA
+	- Ayudantes: TBA (por anunciar)
 - Sitio web oficial del curso: este y [ucursos](https://www.u-cursos.cl/ingenieria/2021/1/CC5301/1/)
 - [Programa del curso](https://www.u-cursos.cl/ingenieria/2021/1/CC5301/1/datos_curso/bajar_programa?id=5225&556310443)
 
@@ -141,3 +141,8 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - **[Katz]**, J. Katz, **Digital Signatures**, Springer, 2010, disponible desde la red de la FCFM o usando la VPN del CEC.
 - **[Stinson]**, D. Stinson, **Cryptography, Theory and Practice**, Second edition, Editorial Cgapman and Hall/CRC, 2002
 - **[MvOV]**, A. J. Menezes, P.C. van Oorschot, S. A. Vanstone, **Handbook of Applied Cryptography**, CRC press, 1997. Disponible online.
+
+## Log de Cambios
+
+- 2021-03-17: 11:56am: Se agregó hora de consulta del profe.
+
