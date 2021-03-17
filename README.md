@@ -29,64 +29,67 @@ El curso consiste en clases de cátedra más clases auxiliares ambas síncronas 
 
 El libro de referencia del curso es el libro de Jon Katz y Yehuda Lindell, 
   _Introduction to Modern Cryptography, 
-	Third Edition_. 
+	Second Edition_. 
 Se espera que el estudiante lea y estudie en forma independiente el o los capítulos correspondientes
   a la materia vista en clases.
 
 El curso está fuertemente basado en trabajo personal. Se espera que los estudiantes: 
 - asistan a las clases de cátedra y auxiliares, (y de ser posible pregunten vía audio o chat),
-- lean los capítulos de los libros clase a clase,
+- lean los capítulos sugeridos de los libros clase a clase,
 - interactúen (hagan preguntas) en el foro de estudiantes y chats (por ej. zoom en cátedras y auxiliares),
 - resuelvan los problemas propuestos (dejados en clase), y
 - resuelvan los problemas de las guías de problemas propuestos.
 
 ## Evaluaciones
 
-El curso será completamente evaluado con 3 controles obligatorios y uno recuperativo, cada uno tipo "tarea" (para la casa).
-Para resolver cada control tendrán 2 semanas, y su solución tendrá dos partes:
+El curso será completamente evaluado con 3 tareas obligatoria y una recuperativa, a resolver individualmente (ver polítiica de colaboración más abajo).
+Para resolver cada tarea tendrán 2-3 semanas, y su solución tendrá dos partes:
 - la solución escrita (un PDF en latex o escrita a mano siempre que tenga letra legible y ordenada), y
-- un video de a lo más 3 min explicando lo fundamental de su solución (esto NO es re-describir su solución, sino explicar brevemente la idea principal de cada solución, o con qué se inspiraron, o en base a qué problema o lo hicieron, o si no la entendieron completamente, qué si entendieron). **Importante:** Si no entrega video la nota de la evaluación sera 1.0. __(Actualizado 2020-11-16)__
+- un video de a lo más 8 min explicando lo fundamental de su solución (esto NO es re-describir su solución, sino explicar brevemente la idea principal de cada solución, o con qué se inspiraron, o en base a qué problema o lo hicieron, o si no la entendieron completamente, qué si entendieron). **Importante:** Si no entrega video la nota de la evaluación sera 1.0. 
 
-Se espera que cada estudiante **entienda bien su solución**. El equipo docente se reserva el derecho a *citar a entrevista personal (vía zoom)* a algunos estudiantes para que expliquen su solución del control. Cuáles estudiantes serán citados será decidido arbitrariamente por el profesor. Note que, el que Ud. sea llamadx _no significa que esté acusado de copia o nada_, simplemente es una manera de confirmar que cada estudiante entiende su solución. Si es llamado a entrevista, la nota final de la solución dependerá tanto de la explicación escrita como de la entrevista.
+Se espera que cada estudiante **entienda bien su solución**. El equipo docente se reserva el derecho a *citar a entrevista personal (vía zoom)* a algunos estudiantes para que expliquen su solución de la tarea. Cuáles estudiantes serán citados será decidido arbitrariamente por el profesor o incluso escogidos al azar. Note que, el que Ud. sea llamadx _no significa que esté acusado de copia o nada_, simplemente es una manera de confirmar que cada estudiante entiende su solución. Si es llamado a entrevista, la nota final de la solución dependerá tanto de la explicación escrita como de la entrevista.
 
-Tendremos una evaluación extra opcional (del tipo control para la casa) para recuperar la nota al final. El examen (eximidos con 5.0) tendrá parte evaluativa no síncrona (como los controles, sin video) pero tendrá obligatoriamente una parte síncrona, en la forma de una entrevista.
+Habrá un control al final del curso, síncrona, en la forma de una entrevista. XXXX
 
-**Escala de notas:** _(Actualizado 2020-09-03-22:30)_ Las evaluaciones serán calificadas con notas 1,3,5 y 7, sin valores intermedios. Dado que las políticas de colaboración (ver siguiente sección) permiten colaborar, esto busca motivarlos a hacer un buen trabajo y no sólo buscar el 4.0. El equipo docente buscará que su tarea tenga "valor agregado", esto es, que el documento muestre que Ud. se esforzó en entender mejor la pregunta y dar una solución más completa o mejor razonada. Sólo contestar lo mínimo probablemente no sea suficiente para aprobar.
+Tendremos una tarea extra opcional para recuperar la nota al final. El examen (eximidos con 5.0) será en forma síncrona, en la forma de una entrevista.
 
 ### Calendario Evaluaciones
 
-__(Actualizado 2020-09-23-09:30)__
-
-* **Evaluación 1 (E1)**: 
+* **Tarea 1 (T1)**: 
 
   - Fecha publicación: Lunes 28 de Sept.
   - Fecha de entrega: Miércoles 14 de Octubre.
   - Contenidos: AFD, AFND, ER, Lema Bombeo, GLC, AP.
 
-* **Evaluación 2 (E2)**: 
+* **Tarea 2 (T2)**: 
 
   - Fecha publicación: Lunes 26 de Oct.
   - Fecha de entrega: Miércoles 11 de Noviembre.
   - Contenidos: Teorema Bombeo LLC, MT, Cálculos con MTs, Variantes MT.
 
-* **Evaluación 3 (E3)**: 
+* **Tarea 3 (T3)**: 
   
   - Fecha publicación: Lunes 16 de Nov.
   - Fecha de entrega: Miércoles 9 de Diciembre.
   - Contenidos: Enumeradores, Tesis de Church-Turing, - Indecibilidad, Verificadores Polinomiales.
 
-* **Evaluación Recuperativa (ER)**: (Puede reemplazar preguntas sobre Evaluaciones 1,2,3) 
+* **Tarea Rec (TR)**: (Puede reemplazar una tarea) 
   - Fecha publicación: Lunes 14 de Diciembre,
   - Fecha de entrega: Miércoles 23 de Diciembre.
   - Contenidos: NP Completitud, NP en la práctica.
+
+* **Control 1 (C1)**:
+  - Fecha publicación: Lunes 14 de Diciembre,
+  - Fecha de entrega: Miércoles 23 de Diciembre.
+  - Contenidos: casi todo
   
-**Cálculo de nota NC:** La nota de control NC previa al examen, se calculará como el promedio de las notas E1,E2 y E3, luego que las peores preguntas de E1,E2, y E3 hayan sido reemplazadas con las notas de las mejores preguntas de ER (siempre que ello beneficie al/a la estudiante).
+**Cálculo de nota NC:** La nota de control NC previa al examen, se calculará como el promedio de las notas T1,T2 y T3, luego que la peor nota de T1,T2, y T3 hayan sido reemplazada con la nota de TR (siempre que ello beneficie al/a la estudiante).
+
+**Control:** XXX
 
 **Examen y eximición:** Quienes obtengan NC sea menor a 5.0, deberán dar el exámen (EX). En dicho caso, la nota final del curso (NF) se calcula como el promedio ponderado 60% NC y 40% EX. De eximirse del examen, NF será igual a NC.
 
 ### Atrasos en Evaluaciones
-
-__(Actualizado 2020-09-23-09:30)__
 
 Las evaluaciones tendrán una fecha y horario de entrega (típicamente 23:59hrs) pero se aceptarán atrasos hasta 5 días siguiendo las siguientes reglas:
 
@@ -95,7 +98,7 @@ Las evaluaciones tendrán una fecha y horario de entrega (típicamente 23:59hrs)
 - Días de fin de semana y semanas de receso no cuentan en los días de atraso, y
 - Una vez que el estudiante haya utilizado la totalidad de sus días de atraso, cualquier entrega que haga posterior a la fecha de entrega será calificada con nota 1.0. 
 
-Nota: Estos días de atraso NO se podrán aplicar a la evaluación recuperativa (ER) pues los tiempos son más ajustados para la correción. 
+Nota: Estos días de atraso NO se podrán aplicar a la tarea recuperativa (TR) pues los tiempos son más ajustados para la correción. 
 
 ## Politica de Colaboración
 
@@ -108,11 +111,13 @@ Se prohibe buscar soluciones por Internet, o usar las soluciones de otra persona
 
 Para más detalles o en caso de duda, preguntar a los auxiliares o al profe.
 
-Actualización 2020-09-22: Existe un servidor de [Discord](https://discord.gg/V6G9c4Y) para el curso. Está disponible para contactar a los auxiliares, ayudantes y el profesor; además puede usarlo para colaborar si lo desea. Si no sabe usarlo, preguntar en el foro.
+## Donde colaborar y preguntar
+
+Existe un servidor de [Discord](https://discord.gg/V6G9c4Y) para el curso. Está disponible para contactar a los auxiliares, ayudantes y el profesor; además puede usarlo para colaborar si lo desea. Si no sabe usarlo, preguntar en el foro.
 
 ## Calendario
 
-__(Actualizado 2020-12-01)__
+__(Actualizado 2021-03-17)__
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
