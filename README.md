@@ -27,11 +27,14 @@ Al finalizar el curso el alumno será capaz de:
 
 El curso consiste en clases de cátedra más clases auxiliares ambas síncronas (vía zoom). El material docente, el cual incluye presentaciones de clases (anotadas) y pautas de auxiliares, y libros de material de lectura del curso, será publicado en ucursos. Para consultas al equipo docente y discusión de la materia pueden usar el foro de ucursos o escribirle directamente a los auxiliares.
 
-El libro de referencia del curso es el libro de Jon Katz y Yehuda Lindell, 
-  _Introduction to Modern Cryptography, 
+El material para el curso será principalmente cubierto con las presentaciones de clases. 
+Adicionalmente, habrá dos libros de referencias del curso:
+- Jon Katz y Yehuda Lindell, _Introduction to Modern Cryptography, 
 	Second Edition_. 
-Se espera que el estudiante lea y estudie en forma independiente el o los capítulos correspondientes
-  a la materia vista en clases.
+- Mihir Bellare y Phil Rogaway, _Introduction to Cryptography, Lecture Notes_.
+(Ver links en referencias abajo). 
+Se espera que cada estudiante lea y estudie en forma independiente el o los capítulos correspondientes
+  a la materia vista en clases. Ellos serán indicados en el calendario más abajo.
 
 El curso está fuertemente basado en trabajo personal (mal que mal, es un curso electivo ;-) ). Se espera que los estudiantes: 
 - asistan a las clases de cátedra y auxiliares, (y de ser posible pregunten vía audio o chat),
