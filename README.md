@@ -1,5 +1,5 @@
 # CC5301  Introducción a la Criptografía Moderna, Otoño 2021
-_(Work in progress!!! Actualizado el 2021-03-14)_
+_(Actualizado el 2021-03-17)_
 
 **Propósito:**
 
