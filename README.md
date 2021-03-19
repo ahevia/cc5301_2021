@@ -1,5 +1,5 @@
 # CC5301  Introducción a la Criptografía Moderna, Otoño 2021
-_(Actualizado el 2021-03-17, ver log de cambios al final)_
+_(Actualizado el 2021-03-19, ver log de cambios al final)_
 
 **Propósito:**
 
@@ -7,7 +7,7 @@ Aprender conceptos, técnicas y resultados del fascinante mundo de la Criptograf
 
 **Profesor:** [Alejandro Hevia](http://www.dcc.uchile.cl/~ahevia/)
 - Cátedras: Lunes y Miércoles 10:15am-11:30am (con break de 10min aprox.)
-- **Horario Consultas profesor (via Discord): Lunes 6pm-7pm.** 
+- **Horario Consultas profesor (via Discord): Lunes 5pm-6pm.** 
 - Clases auxiliares: Viernes 10:15am-11:45am 
 	- Auxiliares: Ilana Mergudich,.
 	- Ayudantes: TBA (por anunciar)
@@ -145,4 +145,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 ## Log de Cambios
 
 - 2021-03-17: 11:56am: Se agregó hora de consulta del profe.
-
+- 2021-03-19: 2:30pm: Cambio en el horario de consulta del profe (5pm en vez de 6pm).
