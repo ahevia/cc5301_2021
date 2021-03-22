@@ -124,9 +124,10 @@ __(Actualizado 2021-03-17)__
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
-1      | 1      | Introducción         | Motivación        |  KL cap 1.1, 1.2 |  
-1      | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3 |  
-2      | 3      | Confidencialidad Perfecta  | Definición, One-Time Pad, Resultados y limitaciones  | KL Cap. 2 (2.4 opcional) |  | 
+1      | 1      | Introducción         | Motivación        |  KL cap 1.1, 1.2, BR. Cap. 1 |  
+       | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3, , BR Cap. 2, PT. Cap. 5 (probabilidades)|  
+2      | 3      | Confidencialidad Perfecta  | Definición, One-Time Pad, Resultados   | KL Cap. 2,  |  | 
+       | 4      |                      | (parte II), Limitaciones  | KL, Teo. 2.10 y Cap. 2.4 |
 
 
 ## Bibliografia
@@ -141,9 +142,11 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - **[Katz]**, J. Katz, **Digital Signatures**, Springer, 2010, disponible desde la red de la FCFM o usando la VPN del CEC.
 - **[Stinson]**, D. Stinson, **Cryptography, Theory and Practice**, Second edition, Editorial Cgapman and Hall/CRC, 2002
 - **[MvOV]**, A. J. Menezes, P.C. van Oorschot, S. A. Vanstone, **Handbook of Applied Cryptography**, CRC press, 1997. Disponible online.
+- **[PT]**, R. Pass, W. Tseng, **A Course in Discrete Structures**, lecture notes. 2011. [Disponible online](http://www.cs.cornell.edu/~rafael/discmath.pdf).
 
 ## Log de Cambios
 
 - 2021-03-17: 11:56am: Se agregó hora de consulta del profe.
 - 2021-03-19: 2:30pm: Cambio en el horario de consulta del profe (5pm en vez de 6pm).
-- 2021-03-22: 3pm: Cambio en el horario de consulta del profe (4:30pm en vez de 5pm, sorry :-) )
+- 2021-03-22: 3pm: Cambio en el horario de consulta del profe (4:30pm en vez de 5pm, sorry :-) );
+- 2021-03-22: 5pm-11pm: Actualización del calendario y lecturas.
