@@ -7,7 +7,7 @@ Aprender conceptos, técnicas y resultados del fascinante mundo de la Criptograf
 
 **Profesor:** [Alejandro Hevia](http://www.dcc.uchile.cl/~ahevia/)
 - Cátedras: Lunes y Miércoles 10:15am-11:30am (con break de 10min aprox.)
-- **Horario Consultas profesor (via Discord): Lunes 5pm-6pm.** 
+- **Horario Consultas profesor (via Discord): Lunes 4:30pm-5:30pm.** 
 - Clases auxiliares: Viernes 10:15am-11:45am 
 	- Auxiliares: Ilana Mergudich,.
 	- Ayudantes: TBA (por anunciar)
@@ -146,3 +146,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 
 - 2021-03-17: 11:56am: Se agregó hora de consulta del profe.
 - 2021-03-19: 2:30pm: Cambio en el horario de consulta del profe (5pm en vez de 6pm).
+- 2021-03-22: 3pm: Cambio en el horario de consulta del profe (4:30pm en vez de 5pm, sorry :-) )
