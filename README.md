@@ -136,12 +136,12 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 	(En biblioteca y ucursos.). Ver la [errata](http://www.cs.umd.edu/~jkatz/imc/errata.pdf) y la sec. 4.6.3 [revisada](http://www.cs.umd.edu/~jkatz/imc/hash-erratum.pdf). 
 - **[BR]** M. Bellare, P. Rogaway, **Introduction to Cryptography, Lecture Notes**, University of California San Diego, 2005.  
   	(En ucursos, disponible transparencias de versiones del curso para pregrado, y de postgrado). 
-- **[SB]** V. Shoup and D. Boneh, **A Graduate Course in Cryptography**, 2017. Disponible online gratis.
-- **[Smart]**, N. Smart, **Cryptography, An Introduction**, 2013. Disponible online gratis.
-- **[Shoup]**, V. Shoup, **A Computational Introduction to Number Theory and Algebra**, 2008. Disponible online gratis.
-- **[Katz]**, J. Katz, **Digital Signatures**, Springer, 2010, disponible desde la red de la FCFM o usando la VPN del CEC.
-- **[Stinson]**, D. Stinson, **Cryptography, Theory and Practice**, Second edition, Editorial Cgapman and Hall/CRC, 2002
-- **[MvOV]**, A. J. Menezes, P.C. van Oorschot, S. A. Vanstone, **Handbook of Applied Cryptography**, CRC press, 1997. Disponible online.
+- **[SB]** V. Shoup and D. Boneh, **A Graduate Course in Cryptography**, 2017. [Disponible online gratis](https://toc.cryptobook.us/).
+- **[Smart]**, N. Smart, **Cryptography, An Introduction**, 2013. [Disponible online gratis](https://homes.esat.kuleuven.be/~nsmart/Crypto_Book/).
+- **[Shoup]**, V. Shoup, **A Computational Introduction to Number Theory and Algebra**, 2008. [Disponible online gratis](https://shoup.net/ntb/).
+- **[Katz]**, J. Katz, **Digital Signatures**, Springer, 2010, disponible desde la red de la FCFM o usando la VPN del CEC (googlear título y springerlink).
+- **[Stinson]**, D. Stinson, **Cryptography, Theory and Practice**, Second edition, Editorial Cgapman and Hall/CRC, 2002. En biblioteca hay copias físicas :-(.
+- **[MvOV]**, A. J. Menezes, P.C. van Oorschot, S. A. Vanstone, **Handbook of Applied Cryptography**, CRC press, 1997. [Disponible online](http://cacr.uwaterloo.ca/hac/).
 - **[PT]**, R. Pass, W. Tseng, **A Course in Discrete Structures**, lecture notes. 2011. [Disponible online](http://www.cs.cornell.edu/~rafael/discmath.pdf).
 
 ## Log de Cambios
