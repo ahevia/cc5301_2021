@@ -149,4 +149,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - 2021-03-17: 11:56am: Se agregó hora de consulta del profe.
 - 2021-03-19: 2:30pm: Cambio en el horario de consulta del profe (5pm en vez de 6pm).
 - 2021-03-22: 3pm: Cambio en el horario de consulta del profe (4:30pm en vez de 5pm, sorry :-) );
-- 2021-03-22: 5pm-11pm: Actualización del calendario y lecturas.
+- 2021-03-22: 5pm-11pm: Actualización del calendario y lecturas, y links a bibliografía.
