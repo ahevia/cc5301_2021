@@ -125,10 +125,10 @@ __(Actualizado 2021-03-17)__
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
 1      | 1      | Introducción         | Motivación        |  KL cap 1.1, 1.2, BR. Cap. 1 |  
-       | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3, , BR Cap. 2|   
+1      | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3, , BR Cap. 2|   
 2      | 3      | Confidencialidad Perfecta  | Definición, One-Time Pad, Resultados   | KL Cap. 2,  , PT. Cap. 5 y mini-guía|  
-       | 4      |                      | (parte II), Limitaciones  | KL, Teo. 2.10 y Cap. 2.4 |
-
+2      | 4      |                      | (parte II), Limitaciones  | KL, Teo. 2.10 y Cap. 2.4 |
+2      | 4      | Encriptación Simétrica | Cifradores de Bloque, DES | KL Cap. 6.2, BR Cap 3.1-3.3 | 
 
 ## Bibliografia
 - **[KL]** J. Katz, Y. Lindell, **[Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)**, 
