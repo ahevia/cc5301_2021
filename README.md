@@ -127,8 +127,11 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 1      | 1      | Introducción         | Motivación        |  KL cap 1.1, 1.2, BR. Cap. 1 |  
 1      | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3, , BR Cap. 2|   
 2      | 3      | Confidencialidad Perfecta  | Definición, One-Time Pad, Resultados   | KL Cap. 2,  , PT. Cap. 5 y mini-guía|  
-2      | 4      |                      | (parte II), Limitaciones  | KL, Teo. 2.10 y Cap. 2.4 |
-2      | 4      | Encriptación Simétrica | Cifradores de Bloque, DES | KL Cap. 6.2, BR Cap 3.1-3.3 | 
+2      | 3,4    |                      | (parte II), Limitaciones  | KL, Teo. 2.10 y Cap. 2.4 |
+2      | 4      | Encriptación Simétrica | Cifradores de Bloque          | KL Cap. 6.2, BR Cap 3.1-3.3 | 
+3      | x      | (Suspendida)           |                               |                     |
+3      | 5      | Encriptación Simétrica | DES, AES, Key Recovery Attacks| BR Cap 3, KL Cap. 6.2.3-6.2.5, Opcional 6.2.6; V Cap. 2.1 y 2.7, Smart Cap. 13.2,13.3  | 
+4      | 6      | Funciones Pseudo-Aleatorias |  Definición, Ejemplos, Significado | BR Cap 4.1-4.3 | 
 
 ## Bibliografia
 - **[KL]** J. Katz, Y. Lindell, **[Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)**, 
@@ -143,6 +146,7 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - **[Stinson]**, D. Stinson, **Cryptography, Theory and Practice**, Second edition, Editorial Cgapman and Hall/CRC, 2002. En biblioteca hay copias físicas :-(.
 - **[MvOV]**, A. J. Menezes, P.C. van Oorschot, S. A. Vanstone, **Handbook of Applied Cryptography**, CRC press, 1997. [Disponible online](http://cacr.uwaterloo.ca/hac/).
 - **[PT]**, R. Pass, W. Tseng, **A Course in Discrete Structures**, lecture notes. 2011. [Disponible online](http://www.cs.cornell.edu/~rafael/discmath.pdf).
+- **[V]**, S. Vadenaux, **A Classical Introduction to Cryptography, Applications for Communication Security**, (En biblioteca y ucursos.)
 
 ## Log de Cambios
 
@@ -150,4 +154,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - 2021-03-19: 2:30pm: Cambio en el horario de consulta del profe (5pm en vez de 6pm).
 - 2021-03-22: 3pm: Cambio en el horario de consulta del profe (4:30pm en vez de 5pm, sorry :-) );
 - 2021-03-22: 5pm-11pm: Actualización del calendario y lecturas, y links a bibliografía.
-- 2021-03-29: 2:39pm: Cambio en el horario de consulta del profe (por n-ésima vez! n=3=O(1) pero igual; disculpas de nuevo).
+- 2021-03-29: 2:39pm: Cambio en el horario de consulta del profe (por n-ésima vez! n=3=O(1) pero igual; disculpas de nuevo). Actualización calendario.
