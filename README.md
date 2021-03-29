@@ -1,5 +1,5 @@
 # CC5301  Introducción a la Criptografía Moderna, Otoño 2021
-_(Actualizado el 2021-03-22, ver log de cambios al final)_
+_(Actualizado el 2021-03-29, ver log de cambios al final)_
 
 **Propósito:**
 
@@ -150,3 +150,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - 2021-03-19: 2:30pm: Cambio en el horario de consulta del profe (5pm en vez de 6pm).
 - 2021-03-22: 3pm: Cambio en el horario de consulta del profe (4:30pm en vez de 5pm, sorry :-) );
 - 2021-03-22: 5pm-11pm: Actualización del calendario y lecturas, y links a bibliografía.
+- 2021-03-29: 2:39pm: Cambio en el horario de consulta del profe (por n-ésima vez! n=3=O(1) pero igual; disculpas de nuevo).
