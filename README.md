@@ -61,21 +61,21 @@ Tendremos una tarea extra opcional para recuperar la nota al final. El examen (e
 
 * **Tarea 1 (T1)**: 
 
-  - Fecha publicación: TBA.
-  - Fecha de entrega: TBA.
-  - Contenidos: Confidencialidad perfecta, PRFs, Encriptación Simétrica.
+  - Fecha publicación: 12 de Abril 2021
+  - Fecha de entrega: 26 de Abril 2021
+  - Contenidos: Confidencialidad perfecta, PRFs.
 
 * **Tarea 2 (T2)**: 
 
-  - Fecha publicación: TBA.
-  - Fecha de entrega: TBA.
-  - Contenidos: TBA.
+  - Fecha publicación: 10 de Mayo 2021
+  - Fecha de entrega: 31 de Mayo 2021
+  - Contenidos: Encriptación Simétrica, Funciones de Hash y Unidreccionales, MACs.
 
 * **Tarea 3 (T3)**: 
   
-  - Fecha publicación: TBA.
-  - Fecha de entrega: TBA.
-  - Contenidos: TBA.
+  - Fecha publicación: 14 de Junio 2021
+  - Fecha de entrega: 5 de Julio
+  - Contenidos: Teoría de Números computacional, Encriptación Asimétrica y RSA, Firmas Digitales.
 
 * **Tarea Rec (TR)**: (Puede reemplazar una tarea) 
   - Fecha publicación: TBA.
