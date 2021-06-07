@@ -67,25 +67,24 @@ Tendremos una tarea extra opcional para recuperar la nota al final. El examen (e
 
 * **Tarea 2 (T2)**: 
 
-  - Fecha publicación: 10 de Mayo 2021
-  - Fecha de entrega: 31 de Mayo 2021
+  - Fecha publicación: 25 de Mayo 2021
+  - Fecha de entrega: 15 de Junio 2021
   - Contenidos: Encriptación Simétrica, Funciones de Hash y Unidreccionales, MACs.
 
 * **Tarea 3 (T3)**: 
   
-  - Fecha publicación: 14 de Junio 2021
-  - Fecha de entrega: 5 de Julio
+  - Fecha publicación: 15 de Junio 2021
+  - Fecha de entrega: 7 de Julio
   - Contenidos: Teoría de Números computacional, Encriptación Asimétrica y RSA, Firmas Digitales.
 
 * **Tarea Rec (TR)**: (Puede reemplazar una tarea) 
-  - Fecha publicación: TBA.
-  - Fecha de entrega: TBA.
-  - Contenidos: TBA.
+  - Fecha publicación: 15 de Junio 2021.
+  - Fecha de entrega: Viernes 1ra Semana exámenes
+  - Contenidos: Todo, pero principalmente lo último visto.
 
 * **Control 1 (C1)**:
-  - Fecha publicación: TBA.
-  - Fecha de entrega: TBA.
-  - Contenidos: Casi toda la materia (excepto la última semana).
+  - Fecha: Durante los días Jueves 8 de Julio y Viernes 9 de Julio, a acordar con cada estudiante. 
+  - Contenidos: Todos los problemas de las tareas y las guías.
 
 **Cálculo de nota NC:** La nota de control NC, se calculará como sigue. Primero se calcula PT como el promedio de las notas T1,T2,T3, luego que la peor nota de T1,T2, y T3 haya sido reemplazada con la nota de TR (siempre que ello beneficie al/a la estudiante). Luego, se calcula NC como el promedio de PT y C1.
   
@@ -132,6 +131,9 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 3      | x      | (Suspendida)           |                               |                     |
 3      | 5      | Encriptación Simétrica | DES, AES, Key Recovery Attacks| BR Cap 3, KL Cap. 6.2.3-6.2.5, Opcional 6.2.6; V Cap. 2.1 y 2.7, Smart Cap. 13.2,13.3  | 
 4      | 6      | Funciones Pseudo-Aleatorias |  Definición, Ejemplos, Significado | BR Cap 4.1-4.3 | 
+11     | 19     | Criptografía Asimétrica | Encriptación Asimétrica (o de clave pública), conceptos, DHIES, Seguridad (IND-CPA), Introducción a RSA |  | 
+11     | 20     |                      | Continuación RSA, Seguridad RSA, Variantes (SRSA) |  | 
+
 
 ## Bibliografia
 - **[KL]** J. Katz, Y. Lindell, **[Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)**, 
