@@ -1,5 +1,5 @@
 # CC5301  Introducción a la Criptografía Moderna, Otoño 2021
-_(Actualizado el 2021-04-14, ver log de cambios al final)_
+_(Actualizado el 2021-06-7, ver log de cambios al final)_
 
 **Propósito:**
 
@@ -159,3 +159,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 - 2021-03-29: 2:39pm: Cambio en el horario de consulta del profe (por n-ésima vez! n=3=O(1) pero igual; disculpas de nuevo). Actualización calendario.
 - 2021-04-08: 2:30pm: Se actualizó el horario de consulta del profe al comunicado en el foro la semana pasada (Mie 5-6pm), y nuevo ayudante.
 - 2021-04-14: 4:45pm: Se corrigió la hora de consulta (no se cambió, sólo se corrigió).
+- 2021-06-07: 10am: Se actualizó el calendario de tareas y control, y algo del calendario de clases (más hoy en la tarde).
